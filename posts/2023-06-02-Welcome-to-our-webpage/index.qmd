@@ -1,0 +1,13 @@
+---
+title: "Welcome to our research lab"
+description: "The reserch lab for Icons of the Mountains"
+author: 
+  - name: Erlend B. Nilsen
+    orcid: 0000-0002-5119-8331
+date: 03-06-2023
+categories: [General]
+image: Golden_eagle.JPG
+draft: false
+---
+
+This is just some temporary text.

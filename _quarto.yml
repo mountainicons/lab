@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Icons of the mountains"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: people.qmd
+        text: People
+      - href: publications.qmd
+        text: Publications
+      - posts.qmd
+  page-footer: 
+    border: true
+    left: "Contact: erlend.b.nilsen@nord.no"
+    center: 
+      - href: https://osf.io/yt63w/
+        text: "Open Sciece Framework"
+    right: 
+      - icon: github
+        href: https://github.com/
+
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+    toc: true
+
+editor: visual
+

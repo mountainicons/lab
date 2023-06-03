@@ -1,0 +1,16 @@
+---
+title: "Population ecology and trophic interactions of iconic vertebrates in mountain ecosystems"
+image: images/Golden_eagle.JPG
+about:  
+  template: trestles
+  image-shape: round
+  image-width: 20em
+---
+
+Our research lab conduct research on a wide range of topics in basic and applied ecology. Most of them are related to population dynamics and trophic interactions of iconic vertebrates in mountain ecosystems in Scandinavia.
+
+Focal species for our research lab include iconic bird species, including willow ptarmigan (*Lagopus lagopus*) and rock ptarmigan (*Lagopus muta*), raptors such as gyrfalcon (*Falco rusticolus*) and golden eagles (*Aquila chrysaetos*), and taiga been goose (*Anser fabalis*). We are also involved in research on a range of other species (both avian and mammals) and systems, both in mountain ecosystems and other ecosystems.
+
+The research lab is coordinated by Professor Erlend B. Nilsen (Nord University and NINA) and Associate Professor Jan Eivind Østnes (Nord University)), and involves students and researchers from Nord University in central Norway and the Norwegian Institute for Nature Reserach (NINA).  
+
+Prospective students are welcome to get in touch with us to discuss potential topics for their thesis. We can provide possibilities for a wide spectre of thesis, often involving field work in scenic mountainous study areas. 
