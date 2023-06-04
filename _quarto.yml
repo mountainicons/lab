@@ -18,14 +18,15 @@ website:
     left: "Contact: erlend.b.nilsen@nord.no"
     center: 
       - href: https://osf.io/yt63w/
-        text: "Open Sciece Framework"
+        text: "Open Science Framework"
     right: 
       - icon: github
         href: https://github.com/
 
 format:
   html:
-    theme: sketchy
+    theme: slate
+    linkcolor: darkorange
     css: styles.css
     toc: true
 
