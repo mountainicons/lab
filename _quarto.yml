@@ -12,16 +12,21 @@ website:
         text: People
       - href: publications.qmd
         text: Publications
-      - posts.qmd
+      - text: "Projects"
+        menu:
+          - projects.qmd
+          - student_projects.qmd
+          - information_students.qmd
+      - posts.qmd  
   page-footer: 
     border: true
-    left: "Contact: erlend.b.nilsen@nord.no"
+    left: "Contact: erlend.b.nilsen@nord.no / jan.e.ostnes@nord.no"
     center: 
       - href: https://osf.io/yt63w/
         text: "Open Science Framework"
     right: 
       - icon: github
-        href: https://github.com/
+        href: https://github.com/MountainIcons
 
 format:
   html:

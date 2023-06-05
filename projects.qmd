@@ -1,0 +1,39 @@
+---
+title: "Main field projects"
+---
+
+Our lab are involved in many projects, and collaborate with many ongoing researech and monitoring projects. The projects listed here are long-term (or - aspirational long term!) field projects that we are at leading. Students interesting in writing their thesis with us should therefore not hesitate to contact us even though you don't find your favourite species or system listed below.
+
+### The ecology of willow ptarmigan in a changing climate
+
+One of our major projects is a field project on willow ptarmigan (*Lagopus lagopus*) ecology, where the focus is on how this iconic species will be affected by ongoing climate change. The project was initiated in 2015, and our main study area is in Lierne municipality in central Norway. In 2023 the study was extended to include an additional coastal study area in Namdalseid municipality, also in central Norway.
+
+::: {.callout-caution collapse="true"}
+## Expand to learn more about the ptarmigan project
+
+The willow ptarmigan is a valued game species in Norway, and has a high cultural value. In addition, it is among the few avian species that stay in our mountain ecosystem throughput the year. A core element of our study has been to monitor marked individuals, but we also collect a wide array of data from unmarked birds. Based on the marked birds, we obtain information about vital rates (survival and recruitment) and movement patterns. During the breeding season, we monitor the nests of marked and unmarked birds using automatic game cameras. We also collect scats, that are used both for identifying individuals (e.g. for catpture-recapture analyses) and the diet based on DNA metabarcoding methods.
+
+The main funding for this project come from the [Norwegian Environment Agency](https://www.miljodirektoratet.no/). We receive substantive help with the fieldwork from "[Fjellstyrene i Lierne](https://www.fjellstyreneilierne.no/)", which provide valuable management relevance for our project.
+:::
+
+------------------------------------------------------------------------
+
+### Monitoring and popualtion ecology of tetraonids
+
+In Norway, tetraonid species - in particular willow ptarmigan - are monitored through a community based montoring program called "[Hønsfuglportalen](https://honsefugl.nina.no/Innsyn/en)". In addition to providing direct input to the management of these populations, the data collected through the program is an extremely valuable source as a basis to for research into the population dynamics of key species in our mountain ecosystems.
+
+::: {.callout-caution collapse="true"}
+## Expand to learn more about the monitoring and population dynamics project
+
+WRITE ABOUT THE PROJECTS HERE
+
+The main funding for this project come from the [Norwegian Environment Agency](https://www.miljodirektoratet.no/).
+:::
+
+------------------------------------------------------------------------
+
+### Feeding ecology of gyrfalcon and golden eagle in the breeding season
+
+------------------------------------------------------------------------
+
+### Population ecology and status of taiga been goose
