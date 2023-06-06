@@ -12,7 +12,7 @@ title: "Who we are"
 
 ##### Principal Investigator & lab coordinator
 
-Erlend is a Professor in ecology and wildlife management at Nord University and Senior Research Scientist at the Norwegian Institute for Nature Research (NINA). He is an applied quantitative ecologist, with a wide set of research interests includes population ecology of vertebrates (in particular in mountain ecosystems), trophic interactions and food web ecology, wildlife management. In addition, he has a strong interest in open science. He is the project leader of [Hønsefuglportalen](https://honsefugl.nina.no/) and [Living Norway Ecological Data Network](https://livingnorway.no/). 
+Erlend is a Professor in ecology and wildlife management at Nord University and Senior Research Scientist at the Norwegian Institute for Nature Research (NINA). He is an applied quantitative ecologist, with a wide set of research interests includes population ecology of vertebrates (in particular in mountain ecosystems), trophic interactions and food web ecology, wildlife management. In addition, he has a strong interest in open science. He is the project leader of [Hønsefuglportalen](https://honsefugl.nina.no/) and [Living Norway Ecological Data Network](https://livingnorway.no/).
 
 **Link to publications:** [Google scholar](https://scholar.google.com/citations?user=XSJg2XoAAAAJ&hl=no) and [Orcid](https://orcid.org/0000-0002-5119-8331)
 :::
@@ -35,5 +35,15 @@ Jan Eivind is....
 :::
 
 ##### To-do
-Add the rest of the group
 
+Add the rest of the group.
+
+-   Researchers
+
+-   PhD candidates
+
+-   Technicians
+
+-   MSc students
+
+-   \[other?\]
