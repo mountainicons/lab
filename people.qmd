@@ -2,6 +2,8 @@
 title: "Who we are"
 ---
 
+## Coordinators and researchers
+
 ::: grid
 ::: g-col-4
 ![](images/Erlend.JPG){width="400"}
@@ -10,9 +12,9 @@ title: "Who we are"
 ::: g-col-8
 ### Erlend B. Nilsen
 
-##### Principal Investigator & lab coordinator
+##### Researcher & lab coordinator
 
-Erlend is a Professor in ecology and wildlife management at Nord University and Senior Research Scientist at the Norwegian Institute for Nature Research (NINA). He is an applied quantitative ecologist, with a wide set of research interests includes population ecology of vertebrates (in particular in mountain ecosystems), trophic interactions and food web ecology, wildlife management. In addition, he has a strong interest in open science. He is the project leader of [Hønsefuglportalen](https://honsefugl.nina.no/) and [Living Norway Ecological Data Network](https://livingnorway.no/).
+I'm a Professor in ecology and wildlife management at Nord University and Senior Research Scientist at the Norwegian Institute for Nature Research (NINA). I have a wide set of research interests that includes population ecology of vertebrates (in particular in mountain ecosystems), trophic interactions and food web ecology, wildlife management. I also has a strong interest in open science. I'm the project leader of [Hønsefuglportalen](https://honsefugl.nina.no/) and [Living Norway Ecological Data Network](https://livingnorway.no/).
 
 **Link to publications:** [Google scholar](https://scholar.google.com/citations?user=XSJg2XoAAAAJ&hl=no) and [Orcid](https://orcid.org/0000-0002-5119-8331)
 :::
@@ -28,22 +30,234 @@ Erlend is a Professor in ecology and wildlife management at Nord University and 
 ::: g-col-8
 ### Jan Eivind Østnes
 
-##### Principal investigator & lab coordinator
+##### Researcher & lab coordinator
 
 Jan Eivind is....
 :::
 :::
 
-##### To-do
+------------------------------------------------------------------------
 
-Add the rest of the group.
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
 
--   Researchers
+::: g-col-8
+### Rakel Blaalid
 
--   PhD candidates
+##### Researcher
 
--   Technicians
+Rakel is....
+:::
+:::
 
--   MSc students
 
--   \[other?\]
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Elise W. Ingvaldsen
+
+##### Field work coordinator
+
+Elise is....
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Markus F. Israelsen
+
+##### Field work coordinator and data curator
+
+Markus is....
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Oddmund Kleven
+
+##### Researcher
+
+Oddmund is....
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Rolf Terje Kroglund
+
+##### Researcher
+
+Rolf Terje is....
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Jenny Mattisson
+
+##### Researcher
+
+Jenny is....
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Chloé R. Nater
+
+##### Researcher
+
+Chloé is....
+:::
+:::
+
+
+## PhD candidates
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Annabel J. Slettenhaar
+
+##### PhD candidate
+
+Annabel is....
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Lasse F. Eriksen
+
+##### PhD candidate
+
+Lasse is....
+:::
+:::
+
+
+## MSc students
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Hilvi Emerense Hamar
+
+##### MSc student
+
+Hilvi is....
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Børje Cato Moen
+
+##### MSc student
+
+Børje is....
+:::
+:::
+
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Stian Sundsvik
+
+##### MSc student
+
+Stian is....
+:::
+:::
+
+
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/Golden_eagle.JPG){width="400"}
+:::
+
+::: g-col-8
+### Eirik Wiik
+
+##### MSc student
+
+Eirik is....
+:::
+:::
+
+
