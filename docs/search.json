@@ -117,5 +117,12 @@
     "title": "Who we are",
     "section": "",
     "text": "I’m a Professor in ecology and wildlife management at Nord University and Senior Research Scientist at the Norwegian Institute for Nature Research (NINA). I have a wide set of research interests that includes population ecology of vertebrates (in particular in mountain ecosystems), trophic interactions and food web ecology, wildlife management. I also has a strong interest in open science. I’m the project leader of Hønsefuglportalen and Living Norway Ecological Data Network.\nLink to publications: Google scholar and Orcid\n\n\n\n\n\n\n\n\n\n\n\n\nJan Eivind is….\n\n\n\n\n\n\n\n\n\n\n\n\nRakel is….\n\n\n\n\n\n\n\n\n\n\n\n\nElise is….\n\n\n\n\n\n\n\n\n\n\n\n\nMarkus is….\n\n\n\n\n\n\n\n\n\n\n\n\nOddmund is….\n\n\n\n\n\n\n\n\n\n\n\n\nRolf Terje is….\n\n\n\n\n\n\n\n\n\n\n\n\nJenny is….\n\n\n\n\n\n\n\n\n\n\n\n\nPål is….\n\n\n\n\n\n\n\n\n\n\n\n\nChloé is….\n\n\n\n\n\n\n\n\n\n\n\n\nBjørn Roar is…."
+  },
+  {
+    "objectID": "test.html",
+    "href": "test.html",
+    "title": "Test",
+    "section": "",
+    "text": "Testing how a figure will look\n\nlibrary(tidyverse)\n\n── Attaching packages ─────────────────────────────────────── tidyverse 1.3.2 ──\n✔ ggplot2 3.4.1     ✔ purrr   1.0.1\n✔ tibble  3.1.8     ✔ dplyr   1.1.0\n✔ tidyr   1.3.0     ✔ stringr 1.5.0\n✔ readr   2.1.4     ✔ forcats 1.0.0\n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\n\ndat &lt;- tibble(x = rnorm(10), \n              y = rnorm(10))\n\np1 &lt;- ggplot(data = dat, aes(x = x, y = y)) +\n  geom_point() +\n  theme_minimal()\n\np1"
   }
 ]
