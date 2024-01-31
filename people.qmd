@@ -166,21 +166,7 @@ Chloé is....
 :::
 :::
 
-------------------------------------------------------------------------
 
-::: grid
-::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
-:::
-
-::: g-col-8
-### Bjørn R. Hagen
-
-##### Researcher
-
-Bjørn Roar is....
-:::
-:::
 
 ## PhD candidates
 
