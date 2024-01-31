@@ -80,7 +80,7 @@ Elise is....
 
 ##### Field work coordinator and data curator
 
-I'm working as a Senior technician at the Norwegian Institute for Nature Research (NINA) in Trondheim on various projects connected to population ecology, wildlife monitoring and radioecology. I'm currently the project leader for the safety equipment group at NINA, which are responsible for supplying necessary equipment to field personnel. I also have interests related to data management, GIS and programming using a number of languages such as R, QGIS, Python, HTML/CSS and SQL.
+I'm working as a Senior technician at the Norwegian Institute for Nature Research (NINA) in Trondheim on various projects connected to population ecology, wildlife monitoring and radioecology. I'm currently the project leader for the safety equipment group at NINA, being responsible for supplying necessary equipment to field personnel. I also have interests related to data management, GIS and programming using a number of languages such as R, QGIS, Python, HTML/CSS and SQL.
 
 **Link to publications: ‪**[Google scholar](https://scholar.google.com/citations?user=L8neP4sAAAAJ&hl=no)
 :::
