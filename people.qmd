@@ -246,7 +246,7 @@ I'm currently an MSc student at Nord University, with a keen interest in mountai
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Stian_Sundsvik_Bilde.jpg)
 :::
 
 ::: g-col-8
@@ -254,7 +254,7 @@ I'm currently an MSc student at Nord University, with a keen interest in mountai
 
 ##### MSc student
 
-Stian is....
+I’m a master’s student at Nord University, specializing in terrestrial ecology and nature management. In research, I have interest in terrestrial ecology, and specially in tetraonid ecology and management. In addition, I also enjoy working with maps in general and in GIS-software. At the time, I’m working on my master’s thesis about the detectability of willow ptarmigan (Lagopus lagopus) in relation to environmental and sampling event variables.
 :::
 :::
 

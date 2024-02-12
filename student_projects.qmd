@@ -77,3 +77,22 @@ In my master's thesis, I´m surveying breeding success and productivity in golde
 The Golden eagle (Aquila chrysaetos) is a species known for its longevity and low reproduction rate. The main aim of my thesis is to investigate population dynamics, such as turnover rates, in two different regions of northern Norway. The data that will be used in my thesis have been obtained from DNA extracted from shed feathers, which were collected annually from approximately 30 territories over the past ten years.
 :::
 :::
+
+------------------------------------------------------------------------
+
+### The effects of multiple covariates on the detection process in distance sampling models
+
+::: grid
+::: g-col-3
+
+------------------------------------------------------------------------
+
+## ![](images/species/willow_ptarmigan/IMG_4989.JPG)
+:::
+
+::: g-col-9
+#### Stian Sundsvik, MSc thesis
+
+In my master’s thesis, I focus on the detectability of willow ptarmigan (Lagopus lagopus) across Norway with data collected in the period 2009-2020 through the project Hønsefuglportalen where a distance sampling methodology is applied. The detectability is assessed in relation to environmental covariates such as land cover, terrain ruggedness and average temperature, and sampling event covariates such as time of the day, ptarmigan cluster size, number of dogs per transect and daily temperatures. The best fit model will be used to investigate how well it can predict detectability in space and time. Getting a better understanding of the detectability of willow ptarmigan may provide increased accuracy in the population density estimates, which can result in strengthened foundations for decision-makers in the management of the species.
+:::
+:::
