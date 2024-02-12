@@ -2,4 +2,78 @@
 title: "Ongoing student projects"
 ---
 
-TO DO: ADD TEXT ABOUT ALL PRESENT MSC AND PHD PROJECTS
+------------------------------------------------------------------------
+
+### *The effects of climate change on interaction strenth in a specialist predator-prey system: The gyrfalcon and willow ptarmigan*
+
+::: grid
+::: g-col-3
+
+------------------------------------------------------------------------
+
+## ![](images/species/gyrfalcon/STC_5805.JPG)
+:::
+
+::: g-col-9
+#### Annabel J. Slettenhaar, PhD thesis
+
+In this project we try to quantify the predator-prey dynamics between the gyrfalcon and the ptarmigan in the Norwegian mountains, and investigate how this system is or will be impacted by climate change. To do this, we start by analysing the diet of the gyrfalcon, and quantifying their numerical and functional response to changing ptarmigan densities. We will use long term monitoring data of abundance and reproductive success of both species to look at their population dynamics and to quantify bottom-up and top-down effects. To find out how the system will respond to climate change, we compare all the above with weather variables and important climatic factors such as spring timing. By looking at seasonal survival patterns of ptarmigan across different environmental contexts, we hope to gain even more detailed knowledge on how the system will respond to a changing world.
+:::
+:::
+
+------------------------------------------------------------------------
+
+### *Life history traits and demography of a mountain bird under climatic variation*
+
+::: grid
+::: g-col-3
+
+------------------------------------------------------------------------
+
+## ![](images/species/willow_ptarmigan/IMG_4989.JPG)
+:::
+
+::: g-col-9
+#### Lasse Frost Eriksen, PhD thesis
+
+Mountains are among the ecosystems that are expected to be particularly exposed to climate change, and observed changes include increased temperatures, shorter winters, reduced snow cover, and changed precipitation patterns. In this thesis, I investigated how short-term variation in climatic factors affects life history traits and demography of willow ptarmigan. I used data from two study areas in Norway, one historical (Dovrefjell, 1978-1994) and one ongoing (Lierne, 2015-2021), to test hypotheses related to reproductive strategies, movement strategies and survival in seasonal environments, with particular focus on the role of climatic variation. My findings suggest that willow ptarmigan is sensitive to short-term variation in climatic factors, in terms of both seasonal survival and annual reproduction. Earlier and warmer springs increased reproductive success, and a later arrival of snow in the autumn and less snow in the spring increased survival prospects. The thesis contributes to better understanding of the vulnerability of willow ptarmigan and the mountain ecosystems to climatic changes.
+:::
+:::
+
+------------------------------------------------------------------------
+
+### *Breeding success and productivity in golden eagle (Aquila chrysaetos) in relation to climate and food availability focusing on the willow ptarmigan (Lagopus lagopus)*
+
+::: grid
+::: g-col-3
+
+------------------------------------------------------------------------
+
+## ![](images/species/golde_eagle/IMG_9163.JPG)
+:::
+
+::: g-col-9
+#### Hilvi Emerense Hamar, MSc-project
+
+In my master's thesis, I´m surveying breeding success and productivity in golden eagle (Aquila chrysaetos) from north to south of Norway for the period 2015-2023, in relation to climate and food availability focusing on the willow ptarmigan (Lagopus lagopus). I´m using golden eagle breeding data from 181 territories, collected through the intensive monitoring program of golden eagle, recorded in Rovbase, and willow ptarmigan index data from the distance sampling line transect survey, recorded in Hønsefuglportalen. Average temperature and snowfall data, and Enhanced Vegetation Index (EVI), used to calculate maximum greenness and onset of spring, have been acquired for each territory each year of the study period. In addition, the proportion of mountain areas has been calculated in each territory, and it has been defined whether the territories are coastal or not, and if they are within areas where sheep or reindeer can reside.
+:::
+:::
+
+------------------------------------------------------------------------
+
+### *Effects of environmental variation on life history traits in golden eagle in Northern Norway*
+
+::: grid
+::: g-col-3
+
+------------------------------------------------------------------------
+
+## ![](images/Golden_eagle.JPG)
+:::
+
+::: g-col-9
+#### Børje Cato Moen, MSc-project
+
+The Golden eagle (Aquila chrysaetos) is a species known for its longevity and low reproduction rate. The main aim of my thesis is to investigate population dynamics, such as turnover rates, in two different regions of northern Norway. The data that will be used in my thesis have been obtained from DNA extracted from shed feathers, which were collected annually from approximately 30 territories over the past ten years.
+:::
+:::

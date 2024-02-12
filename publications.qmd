@@ -36,14 +36,14 @@ Kleven, O., Kroglund, R.T. &Østnes, J.E. (2016) Isolation, characterization and
 
 Østnes, J.E., Kroglund, R.T. & Kålås, J.A. (2014) A survey and GIS-based estimate of the breeding population of Great Snipe *Gallinago media* in Central Norway. Bird Study, 61, 386-393.
 
-
 ------------------------------------------------------------------------
 
 ### Work we have been involved in
 
 *The list below include output from research collaborations about the iconic species of the mountains that we have been involved in, but that might not have been lead or coordinated from our lab or lab members.*
 
-
+::: {.callout-caution collapse="true"}
+## Expand to find an extended publication list
 
 Law, E.A., Linnell, J.D.C., van Moorter, B. & Nilsen, E.B. (2021) Heuristics for the sustainable harvest of wildlife in stochastic social-ecological systems. PLoS ONE, 16, e0260159.
 
@@ -78,3 +78,5 @@ Brøseth, H., Nilsen, E.B. & Pedersen, H.C. (2012) Temporal quota corrections ba
 Strand, O., Nilsen, E.B., Solberg, E.J. & Linnell, J.C.D. (2012) Can management regulate the population size of wild reindeer (Rangifer tarandus) through harvest? Canadian Journal of Zoology, 90, 163-171.
 
 Sandercock, B.K., Nilsen, E.B., Broseth, H. & Pedersen, H.C. (2011) Is hunting mortality additive or compensatory to natural mortality? Effects of experimental harvest on the survival and cause-specific mortality of willow ptarmigan. Journal of Animal Ecology, 80, 244-258.
+
+:::

@@ -1,6 +1,6 @@
 ---
 title: "Population ecology and trophic interactions of iconic vertebrates in mountain ecosystems"
-image: images/Golden_eagle.JPG
+image: images/species/willow_ptarmigan/IMG_2512-I.JPG
 about:  
   template: trestles
   image-shape: round

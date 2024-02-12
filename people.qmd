@@ -6,7 +6,7 @@ title: "Who we are"
 
 ::: grid
 ::: g-col-4
-![](images/Erlend.JPG){width="400"}
+![](images/people/Erlend.JPG){width="400"}
 :::
 
 ::: g-col-8
@@ -24,7 +24,7 @@ I'm a Professor in ecology and wildlife management at Nord University and Senior
 
 ::: grid
 ::: g-col-4
-![](images/janeivind.JPG){width="400"}
+![](images/people/janeivind.JPG){width="400"}
 :::
 
 ::: g-col-8
@@ -32,7 +32,9 @@ I'm a Professor in ecology and wildlife management at Nord University and Senior
 
 ##### Researcher & lab coordinator
 
-Jan Eivind is....
+I’m an associate professor in biology and wildlife management at Nord University in Steinkjer. I have a keen interest in avian biology, and my previous research projects have focused on various topics within ecology, physiology, and ecotoxicology. In recent years, I have been particularly involved in projects that focus on the ecology and behaviour of birds that inhabit mountain habitats in central Norway.
+
+**Link to publications:** [Orcid](https://orcid.org/0000-0003-0636-6188)
 :::
 :::
 
@@ -72,7 +74,7 @@ Elise is....
 
 ::: grid
 ::: g-col-4
-![](images/Markus_Fjellstad_Israelsen_crop.png){width="400"}
+![](images/people/Markus_Fjellstad_Israelsen_crop.png){width="400"}
 :::
 
 ::: g-col-8
@@ -82,7 +84,7 @@ Elise is....
 
 I'm working as a Senior technician at the Norwegian Institute for Nature Research (NINA) in Trondheim on various projects connected to population ecology, wildlife monitoring and radioecology. I'm currently the project leader for the safety equipment group at NINA, being responsible for supplying necessary equipment to field personnel. I also have interests related to data management, GIS and programming using a number of languages such as R, QGIS, Python, HTML/CSS and SQL.
 
-**Link to publications: ‪**[Google scholar](https://scholar.google.com/citations?user=L8neP4sAAAAJ&hl=no)
+**Link to publications:** [Google scholar](https://scholar.google.com/citations?user=L8neP4sAAAAJ&hl=no)
 :::
 :::
 
@@ -166,15 +168,13 @@ Chloé is....
 :::
 :::
 
-
-
 ## PhD candidates
 
 ------------------------------------------------------------------------
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Annabel.jpg)
 :::
 
 ::: g-col-8
@@ -182,7 +182,9 @@ Chloé is....
 
 ##### PhD candidate
 
-Annabel is....
+I started my PhD at Nord University in Steinkjer in 2023, investigating the interaction between the gyrfalcon and the ptarmigan. For the project I am interested in their predator-prey dynamics and how climate change affects this system. I am originally from the Netherlands, where I worked on projects relating to behavioural ecology, bird migration and conservation in temperate and arctic ecosystems. My favourite thing about research is the fieldwork, and I feel very lucky to be able to do that now in the amazing Norwegian mountains!
+
+**Link to publications:** [Orcid](https://orcid.org/0009-0005-9954-0721)
 :::
 :::
 
@@ -190,15 +192,17 @@ Annabel is....
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Lasse_bilde.jpg)
 :::
 
 ::: g-col-8
-### Lasse F. Eriksen
+### Lasse Frost Eriksen
 
 ##### PhD candidate
 
-Lasse is....
+I am a PhD candidate at NINA/NTNU, working with willow ptarmigan and how it responds to climatic variation. I have been connected to the willow ptarmigan projects in Central Norway for about a decade. The PhD will be completed in March 2024, and I will then continue to work at NINA with grouse research and monitoring, as well as other topics in ecology.
+
+**Link to publications:** [Orcid](https://orcid.org/0000-0002-9893-7963)
 :::
 :::
 
@@ -208,7 +212,7 @@ Lasse is....
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Hilvi_Emerense_Hamar.JPG){width="400"}
 :::
 
 ::: g-col-8
@@ -216,7 +220,7 @@ Lasse is....
 
 ##### MSc student
 
-Hilvi is....
+I´m a master student in Biosciences at Nord University, Steinkjer, specializing in Terrestrial Ecology and Nature Management. Currently, I´m writing on my master´s thesis about breeding success in golden eagle (Aquila chrysaetos) related to climate and food availability focusing on the willow ptarmigan (Lagopus lagopus), and plan to deliver it during spring 2024. I have a general interest in ecology and how everything is connected in ecosystems, but what I might find the most interesting is predator-prey interactions.
 :::
 :::
 
@@ -224,7 +228,7 @@ Hilvi is....
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Borje_Bilde.jpg)
 :::
 
 ::: g-col-8
@@ -232,7 +236,9 @@ Hilvi is....
 
 ##### MSc student
 
-Børje is....
+I'm currently an MSc student at Nord University, with a keen interest in mountain ecology, particularly avian studies. Over the past decade, I've been actively involved as a fieldworker in numerous research and wildlife management projects especially targeting species within mountain ecosystems in central Norway. I hold a full-time position as a mountain ranger in Lierne municipality, where I contribute to wildlife management and various research initiatives.
+
+**Link to publications**: [Google shcolar](https://scholar.google.com/citations?hl=no&user=rB-oeH4AAAAJ&gmla=AH70aAUZYWbu0a2jCNjyat4h8xrBRKy_UknEWqhJwNDsKhVY1Uxtbo8dSYUWaTjP_ryYQjEoE__QkwN2k_5TGbyaN4cLX4UYan4ZUyhXN_bF4u4kxdOOXQ&sciund=14095538938847686036&gmla=AH70aAWotPhACt5ImBAHlqwKWF3WkZXe6lt1JtAignDeT0ZABlFAfFdy7QgW3_lLqSK6yNvjwOxUbjWFz2qmZH_0XM3DTP_5waR4I26METCkmSKjCoeyfw&sciund=17227972059197056096) and [Orcid](https://orcid.org/0000-0002-7346-6528)
 :::
 :::
 
