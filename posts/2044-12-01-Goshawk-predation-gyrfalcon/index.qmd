@@ -10,7 +10,7 @@ author:
     orcid: 0000-0002-5119-8331
 date: 12-02-2024
 categories: [General]
-image: images/Picture3.JPG
+image: Picture3.JPG
 draft: false
 ---
 
