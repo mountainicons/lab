@@ -8,9 +8,9 @@ author:
     orcid: 0000-0003-0636-6188    
   - name: Erlend B. Nilsen
     orcid: 0000-0002-5119-8331
-date: 12-02-2024
+date: 02-12-2024
 categories: [General]
-image: Picture3.JPG
+image: Picture3.jpg
 draft: false
 ---
 
