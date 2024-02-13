@@ -124,7 +124,7 @@ Rolf Terje is....
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Jenny.jpg)
 :::
 
 ::: g-col-8
@@ -132,7 +132,9 @@ Rolf Terje is....
 
 ##### Researcher
 
-Jenny is....
+I'm a researcher at the Norwegian Institute for Nature Research (NINA) in Trondheim. My main research interest involves carnivore ecology, predator - prey interactions, wildlife-human conflicts and management of carnivores in Scandinavia. I'm also involved in studies of the effects of kelp harvest on sea birds. Part of my time is dedicated to the monitoring of golden eagles and wolverines within Rovdata (NINA).
+
+**Link to publications:** [Google scholar](https://scholar.google.com/citations?hl=no&user=5RHI6YMAAAAJ&view_op=list_works&sortby=pubdate) and [Orcid](https://orcid.org/0000-0001-6032-5307)
 :::
 :::
 
