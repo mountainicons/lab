@@ -92,7 +92,7 @@ I'm working as a Senior technician at the Norwegian Institute for Nature Researc
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/bildeOK.jpeg)
 :::
 
 ::: g-col-8
@@ -100,7 +100,9 @@ I'm working as a Senior technician at the Norwegian Institute for Nature Researc
 
 ##### Researcher
 
-Oddmund is....
+I’m a researcher at the Norwegian Institute for Nature Research (NINA) in Trondheim. I have a broad research interest and are currently mainly working with DNA-based monitoring of large carnivores and raptors in Scandinavia.
+
+**Link to publications:** [Orcid](https://orcid.org/0000-0003-0267-6795)
 :::
 :::
 
