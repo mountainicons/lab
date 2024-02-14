@@ -172,6 +172,24 @@ Chloé is....
 :::
 :::
 
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
+![](images/people/Lars.jpg)
+:::
+
+::: g-col-8
+### Lars Rød-Eriksen
+
+##### Researcher
+
+I'm a research scientist at the Norwegian Institute for Nature Research (NINA), working mainly within the fields of landscape and community ecology, with a focus on mountainous, alpine and arctic ecosystems. My main background is on small to medium sized carnivores, extended over the years to include birds and ungulates. Research interests cover road ecology and climate change, and in particular anthropogenic impacts on species distributions. I'm the lead administrator of [Hønsefuglportalen](https://honsefugl.nina.no/).
+
+Link to publications: [Google scholar](https://scholar.google.com/citations?user=0NBHTxIAAAAJ&hl=en) and [Orcid](https://orcid.org/0000-0003-0482-4384)
+:::
+:::
+
 ## PhD candidates
 
 ------------------------------------------------------------------------
