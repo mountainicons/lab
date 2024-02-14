@@ -16,7 +16,6 @@ website:
         menu:
           - projects.qmd
           - student_projects.qmd
-          - information_students.qmd
       - posts.qmd  
   page-footer: 
     border: true
