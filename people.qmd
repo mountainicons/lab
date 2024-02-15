@@ -144,7 +144,7 @@ I'm a researcher at the Norwegian Institute for Nature Research (NINA) in Trondh
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Pål.jpg)
 :::
 
 ::: g-col-8
@@ -152,7 +152,9 @@ I'm a researcher at the Norwegian Institute for Nature Research (NINA) in Trondh
 
 ##### Researcher
 
-Pål is....
+I have a part-time position as an associate professor in biology and wildlife management at Nord University in Steinkjer. I have been connected to the willow ptarmigan projects in Central Norway since its inception in 2015 and still contribute to parts of this project. Research interests mainly cover different aspects of ptarmigan ecology and management.
+
+**Link to publications:** [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AILGF5UFE7FxUbR1msFSz_IWEibQXARbUNEh0SSTl-UhQ17Nw7uJmkj4j1e2QV5OWs7_fn4zUIyoPUnGRsB2VA&user=txRsozcAAAAJ)
 :::
 :::
 
