@@ -1,0 +1,18 @@
+---
+title: "Ptarmigan movement"
+---
+
+```{r}
+
+library(ggplot2)
+library(tidyverse)
+
+dat <- tibble(x=rnorm(10,1),
+              y=rnorm(10,2))
+
+p1 <- ggplot(data=dat, aes(x = x, y = y)) +
+      geom_point()
+
+p1
+
+```

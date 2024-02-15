@@ -4,3 +4,11 @@
 .Ruserdata
 /.quarto/
 
+docs/*
+_freeze/
+docs/listings.json
+docs/posts.html
+
+
+
+
