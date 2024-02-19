@@ -82,7 +82,7 @@ Link to publications: [Orcid](https://orcid.org/0009-0002-9131-7005)
 ::: g-col-8
 ### Markus F. Israelsen
 
-##### Senior technician,  field work coordinator and data curator
+##### Senior technician, field work coordinator and data curator
 
 I'm working as a Senior technician at the Norwegian Institute for Nature Research (NINA) in Trondheim on various projects connected to population ecology, wildlife monitoring and radioecology. I'm currently the project leader for the safety equipment group at NINA, being responsible for supplying necessary equipment to field personnel. I also have interests related to data management, GIS and programming using a number of languages such as R, QGIS, Python, HTML/CSS and SQL.
 
@@ -112,7 +112,7 @@ I’m a researcher at the Norwegian Institute for Nature Research (NINA) in Tron
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Rolf_Terje.JPG)
 :::
 
 ::: g-col-8
@@ -120,7 +120,7 @@ I’m a researcher at the Norwegian Institute for Nature Research (NINA) in Tron
 
 ##### Researcher
 
-Rolf Terje is....
+I’m an associate professor in biology and wildlife management at Nord university in Steinkjer. In the recent years I have focused on mapping and monitoring of vulnerable and threatened species. In several of these studies we have employed satellite transmitters and light-loggers (GLS). For many years now, I’ve collaborated with fellow researchers in studying the taiga bean goose in the mountainous regions of central Norway.
 :::
 :::
 
