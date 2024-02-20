@@ -1,0 +1,81 @@
+---
+title: "Publications about the Icons of the Mountains"
+---
+
+*On this page, publications from our research lab or where we have been involved are listed. Only publications about "Icons of the mountains" (i.e. - the iconic vertebrates in the mountains) are listed. For a full publication list of the lab members, please follow links to our google scholar or orcid sites linked [here](people.qmd).*
+
+------------------------------------------------------------------------
+
+### From the lab
+
+Moen, B.C., Kroglund, R.T., Østnes, J.E., Nilsen, E.B. & Nygård, T. (2023) Wildlife Camera Monitoring Revealed the Northern Goshawk as a Predator on Gyrfalcon Nestlings. Journal of Raptor Research, 57, 671-675.
+
+Eriksen, L.F., Ringsby, T.H., Pedersen, H.C. & Nilsen, E.B. (2023) Climatic forcing and individual heterogeneity in a resident mountain bird: legacy data reveal effects on reproductive strategies. Royal Society Open Science, 10, 221427.
+
+Arnekleiv, Ø., Eldegard, K., Moa, P.F., Eriksen, L.F. & Nilsen, E.B. (2022) Drivers and consequences of partial migration in an alpine bird species. Ecology and Evolution, 12, e8690. \[link\]
+
+Ytrehus, B., Rocchi, M., Brandsegg, H., Turnbull, D., Miller, A., Pedersen, H.C., Kalas, J.A. & Nilsen, E.B. (2021) Louping-Ill Virus Serosurvey of Willow Ptarmigan (Lagopus Lagopus Lagopus) in Norway. J Wildl Dis, 57, 282-291.
+
+Nilsen, E.B., Moa, P.F., Broseth, H., Pedersen, H.C. & Hagen, B.R. (2020) Survival and Migration of Rock Ptarmigan in Central Scandinavia. Frontiers in Ecology and Evolution, 8.
+
+Israelsen, M.F., Eriksen, L.F., Moa, P.F., Hagen, B.R. & Nilsen, E.B. (2020) Survival and cause-specific mortality of harvested willow ptarmigan (Lagopus lagopus) in central Norway. Ecol Evol, 10, 11144-11154.
+
+Bowler, D.E., Kvasnes, M.A.J., Pedersen, H.C., Sandercock, B.K. & Nilsen, E.B. (2020) Impacts of predator-mediated interactions along a climatic gradient on the population dynamics of an alpine bird. Proc Biol Sci, 287, 20202653.
+
+Nilsen, E.B. & Strand, O. (2018) Integrating data from multiple sources for insights into demographic processes: Simulation studies and proof of concept for hierarchical change-in-ratio models. PLoS ONE, 13, e0194566.
+
+Eriksen, L.F., Moa, P.F. & Nilsen, E.B. (2018) Quantifying risk of overharvest when implementation is uncertain. Journal of Applied Ecology, 55, 482-493.
+
+Kvasnes, M.A.J., Pedersen, H.C. & Nilsen, E.B. (2018) Quantifying suitable late summer brood habitats for willow ptarmigan in Norway. BMC Ecol, 18, 41.
+
+Moa, P.F., Eriksen, L.F. & Nilsen, E.B. (2017) Harvest Regulations and Implementation Uncertainty in Small Game Harvest Management. Frontiers in Ecology and Evolution, 5.
+
+Nilsen, E.B. (2017) The use of quantitative models in the harvest management of wild ungulates, carnivores and small game -- using Norway as a case study. Decision-making in conservation and natural resource management - models for inter-disciplinary approaches (eds E.-J. Milner-Gulland, E. Nicholson & N. Bunnefeld). Cambridge University Press, Cambridge University Press.
+
+Kleven, O., Kroglund, R.T. &Østnes, J.E. (2016) Isolation, characterization and multiplex-PCR development of Bean Goose (*Anser fabalis*) microsatellite loci. Journal of Ornithology, 157, 641-646.
+
+Østnes, J.E., Kroglund, R.T. & Kålås, J.A. (2014) A survey and GIS-based estimate of the breeding population of Great Snipe *Gallinago media* in Central Norway. Bird Study, 61, 386-393.
+
+------------------------------------------------------------------------
+
+### Work we have been involved in
+
+*The list below include output from research collaborations about the iconic species of the mountains that we have been involved in, but that might not have been lead or coordinated from our lab or lab members.*
+
+::: {.callout-caution collapse="true"}
+## Expand to find an extended publication list
+
+Law, E.A., Linnell, J.D.C., van Moorter, B. & Nilsen, E.B. (2021) Heuristics for the sustainable harvest of wildlife in stochastic social-ecological systems. PLoS ONE, 16, e0260159.
+
+Cretois, B., Linnell, J.D.C., Van Moorter, B., Kaczensky, P., Nilsen, E.B., Parada, J. & Rød, J.K. (2021) Coexistence of large mammals and humans is possible in Europe's anthropogenic landscapes. iScience, 24.
+
+Van Moorter, B., Engen, S., Fryxell, J.M., Panzacchi, M., Nilsen, E.B. & Mysterud, A. (2020) Consequences of barriers and changing seasonality on population dynamics and harvest of migratory ungulates. Theoretical Ecology, 13, 595-605.
+
+Mysterud, A., Hopp, P., Alvseike, K.R., Benestad, S.L., Nilsen, E.B., Rolandsen, C.M., Strand, O., Vage, J. & Viljugrein, H. (2020) Hunting strategies to increase detection of chronic wasting disease in cervids. Nat Commun, 11, 4392.
+
+Fuglei, E., Henden, J.A., Callahan, C.T., Gilg, O., Hansen, J., Ims, R.A., Isaev, A.P., Lang, J., McIntyre, C.L., Merizon, R.A., Mineev, O.Y., Mineev, Y.N., Mossop, D., Nielsen, O.K., Nilsen, E.B., Pedersen, A.O., Schmidt, N.M., Sittler, B., Willebrand, M.H. & Martin, K. (2020) Circumpolar status of Arctic ptarmigan: Population dynamics and trends. AMBIO, 49, 749-761.
+
+De Jong, A., Kleven, O., Østnes, J.E., Kroglund, R.T., Vahlström, I., Nilsson, J. & Spong, G. (2019) Birds of different feather flock together -- genetic structure of Taiga Bean Goose in Central Scandinavia. Bird Conservation International, 29, 249-262.
+
+Viljugrein, H., Hopp, P., Benestad, S.L., Nilsen, E.B., Våge, J., Tavornpanich, S., Rolandsen, C.M., Strand, O. & Mysterud, A. (2018) A method that accounts for differential detectability in mixed samples of long‐term infections with applications to the case of chronic wasting disease in cervids. Methods in Ecology and Evolution, 10, 134-145.
+
+Breisjøberget, J.I., Odden, M., Storaas, T., Nilsen, E.B. & Kvasnes, M.A.J. (2018) Harvesting a red-listed species: determinant factors for willow ptarmigan harvest rates, bag sizes, and hunting efforts in Norway. European Journal of Wildlife Research, 64, 54.
+
+Kvasnes, M.A.J., Pedersen, H.C., Storaas, T. & Nilsen, E.B. (2017) Vegetation type and demography of low density willow ptarmigan populations. Journal of Wildlife Management, 81, 174-181.
+
+Gervasi, V., Broseth, H., Gimenez, O., Nilsen, E.B., Odden, J., Flagstad, O. & Linnell, J.D.C. (2016) Sharing data improves monitoring of trans-boundary populations: the case of wolverines in central Scandinavia. Wildlife Biology, 22, 95-106.
+
+Gervasi, V., Broseth, H., Nilsen, E.B., Ellegren, H., Flagstad, O. & Linnell, J.D.C. (2015) Compensatory immigration counteracts contrasting conservation strategies of wolverines (Gulo gulo) within Scandinavia. Biological Conservation, 191, 632-639.
+
+Kvasnes, M.A.J., Pedersen, H.C., Solvang, H., Storaas, T. & Nilsen, E.B. (2014) Spatial distribution and settlement strategies in willow ptarmigan. Population Ecology, 57, 151-161.
+
+Kvasnes, M.A.J., Pedersen, H.C., Storaas, T. & Nilsen, E.B. (2014) Large-scale climate variability and rodent abundance modulates recruitment rates in Willow Ptarmigan (Lagopus lagopus). Journal of Ornithology, 155, 891-903.
+
+Gervasi, V., Broseth, H., Gimenez, O., Nilsen, E.B. & Linnell, J.D. (2014) The risks of learning: confounding detection and demographic trend when using count-based indices for population monitoring. Ecol Evol, 4, 4637-4648.
+
+Brøseth, H., Nilsen, E.B. & Pedersen, H.C. (2012) Temporal quota corrections based on timing of harvest in a small game species. European Journal of Wildlife Research, 58, 797-802.
+
+Strand, O., Nilsen, E.B., Solberg, E.J. & Linnell, J.C.D. (2012) Can management regulate the population size of wild reindeer (Rangifer tarandus) through harvest? Canadian Journal of Zoology, 90, 163-171.
+
+Sandercock, B.K., Nilsen, E.B., Broseth, H. & Pedersen, H.C. (2011) Is hunting mortality additive or compensatory to natural mortality? Effects of experimental harvest on the survival and cause-specific mortality of willow ptarmigan. Journal of Animal Ecology, 80, 244-258.
+:::
