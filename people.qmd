@@ -52,7 +52,7 @@ I’m an associate professor in biology and wildlife management at Nord Universi
 
 I’m an associate professor in molecular ecology at Nord University. My main research areas are mainly focusing on fungal ecology and systematics, fungi as nutrient mediators across ecosystems and botany. I am also very passionate about preserving and protecting biodiversity.
 
-Link to publications: [Google scholar](https://scholar.google.com/citations?hl=no&user=Sw1nBF4AAAAJ&view_op=list_works&gmla=AILGF5XpuPETCVePAGC-qJlYKzw1tKsJhDch4ll20Xq32Bky-LLLl2ZdozyGldGUirpzyTkpwOLA_2qAAicuhFl-qSuUdCcNeol9aLo7wQ) and [Orcid](https://orcid.org/0000-0002-3883-8189)
+**Link to publications**: [Google scholar](https://scholar.google.com/citations?hl=no&user=Sw1nBF4AAAAJ&view_op=list_works&gmla=AILGF5XpuPETCVePAGC-qJlYKzw1tKsJhDch4ll20Xq32Bky-LLLl2ZdozyGldGUirpzyTkpwOLA_2qAAicuhFl-qSuUdCcNeol9aLo7wQ) and [Orcid](https://orcid.org/0000-0002-3883-8189)
 :::
 :::
 
@@ -70,7 +70,7 @@ Link to publications: [Google scholar](https://scholar.google.com/citations?hl=n
 
 I work as a senior engineer at the Faculty of Biosciences and Aquaculture at Nord University. Here I am responsible for laboratory teaching and operation of our research laboratory. I also contribute to field-teaching and guidance/field training of our students. I wrote my master’s thesis at the ptarmigan project, where I investigated willow ptarmigan diet. I am particularly interested in alpine ecology, trophic interactions, and food web dynamics.
 
-Link to publications: [Orcid](https://orcid.org/0009-0002-9131-7005)
+**Link to publications**: [Orcid](https://orcid.org/0009-0002-9131-7005)
 :::
 :::
 
@@ -166,7 +166,7 @@ I have a part-time position as an associate professor in biology and wildlife ma
 
 ::: grid
 ::: g-col-4
-![](images/Golden_eagle.JPG){width="400"}
+![](images/people/Chloe.jpg)
 :::
 
 ::: g-col-8
@@ -174,7 +174,9 @@ I have a part-time position as an associate professor in biology and wildlife ma
 
 ##### Researcher
 
-Chloé is....
+I’m a statistical ecologist working at the Norwegian Institute for Nature Research. My specialty is making the best possible use of available data by combining information from different sources and monitoring programmes in integrated models. I have done that for a large range of species including freshwater fish, resident and migratory birds, and marine and terrestrial mammals, and the list of species is still growing. Willow ptarmigan is a newer addition to my list, and I am involved in designing and maintaining reproducible analysis pipelines for data collected through [Hønsefuglportalen](https://honsefugl.nina.no/Innsyn/nb).
+
+**Link to publications:** [Google scholar](https://scholar.google.com/citations?user=mK8XthMAAAAJ&hl=no&oi=ao) and [Orcid](https://orcid.org/0000-0002-7975-0108)
 :::
 :::
 
@@ -192,7 +194,7 @@ Chloé is....
 
 I'm a research scientist at the Norwegian Institute for Nature Research (NINA), working mainly within the fields of landscape and community ecology, with a focus on mountainous, alpine and arctic ecosystems. My main background is on small to medium sized carnivores, extended over the years to include birds and ungulates. Research interests cover road ecology and climate change, and in particular anthropogenic impacts on species distributions. I'm the lead administrator of [Hønsefuglportalen](https://honsefugl.nina.no/).
 
-Link to publications: [Google scholar](https://scholar.google.com/citations?user=0NBHTxIAAAAJ&hl=en) and [Orcid](https://orcid.org/0000-0003-0482-4384)
+**Link to publications:** [Google scholar](https://scholar.google.com/citations?user=0NBHTxIAAAAJ&hl=en) and [Orcid](https://orcid.org/0000-0003-0482-4384)
 :::
 :::
 

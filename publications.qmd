@@ -8,11 +8,13 @@ title: "Publications about the Icons of the Mountains"
 
 ### Selected publications from the lab
 
+Ingvaldsen, E.W., Østnes, J.E., Kleven, O., Davey, M., Fossøy, F. & Nilsen, E.B. (2024) Fecal DNA metabarcoding reveals seasonal and annual variation in willow ptarmigan diet. Royal Society Open Science, 11, 231518.
+
 Moen, B.C., Kroglund, R.T., Østnes, J.E., Nilsen, E.B. & Nygård, T. (2023) Wildlife Camera Monitoring Revealed the Northern Goshawk as a Predator on Gyrfalcon Nestlings. Journal of Raptor Research, 57, 671-675.
 
 Eriksen, L.F., Ringsby, T.H., Pedersen, H.C. & Nilsen, E.B. (2023) Climatic forcing and individual heterogeneity in a resident mountain bird: legacy data reveal effects on reproductive strategies. Royal Society Open Science, 10, 221427.
 
-Arnekleiv, Ø., Eldegard, K., Moa, P.F., Eriksen, L.F. & Nilsen, E.B. (2022) Drivers and consequences of partial migration in an alpine bird species. Ecology and Evolution, 12, e8690. \[link\]
+Arnekleiv, Ø., Eldegard, K., Moa, P.F., Eriksen, L.F. & Nilsen, E.B. (2022) Drivers and consequences of partial migration in an alpine bird species. Ecology and Evolution, 12, e8690.
 
 Ytrehus, B., Rocchi, M., Brandsegg, H., Turnbull, D., Miller, A., Pedersen, H.C., Kalas, J.A. & Nilsen, E.B. (2021) Louping-Ill Virus Serosurvey of Willow Ptarmigan (Lagopus Lagopus Lagopus) in Norway. J Wildl Dis, 57, 282-291.
 
@@ -35,4 +37,3 @@ Nilsen, E.B. (2017) The use of quantitative models in the harvest management of 
 Kleven, O., Kroglund, R.T. &Østnes, J.E. (2016) Isolation, characterization and multiplex-PCR development of Bean Goose (*Anser fabalis*) microsatellite loci. Journal of Ornithology, 157, 641-646.
 
 Østnes, J.E., Kroglund, R.T. & Kålås, J.A. (2014) A survey and GIS-based estimate of the breeding population of Great Snipe *Gallinago media* in Central Norway. Bird Study, 61, 386-393.
-
