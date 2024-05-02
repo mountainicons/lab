@@ -60,6 +60,24 @@ I’m an associate professor in molecular ecology at Nord University. My main re
 
 ::: grid
 ::: g-col-4
+![](images/people/Lasse_bilde.jpg)
+:::
+
+::: g-col-8
+### Lasse Frost Eriksen
+
+##### Researcher
+
+I am a researcher at NINA, working with willow ptarmigan and how it responds to climatic variation. I have been connected to the willow ptarmigan projects in Central Norway for about a decade. I defended my PhD in March 2024, and now then continue to work at NINA with grouse research and monitoring, as well as other topics in ecology.
+
+**Link to publications:** [Orcid](https://orcid.org/0000-0002-9893-7963)
+:::
+:::
+
+------------------------------------------------------------------------
+
+::: grid
+::: g-col-4
 ![](images/people/Elise.jpg)
 :::
 
@@ -222,17 +240,17 @@ I started my PhD at Nord University in Steinkjer in 2023, investigating the inte
 
 ::: grid
 ::: g-col-4
-![](images/people/Lasse_bilde.jpg)
+![](images/people/Saria.jpg)
 :::
 
 ::: g-col-8
-### Lasse Frost Eriksen
+### Saria Sato Bajracharya
 
 ##### PhD candidate
 
-I am a PhD candidate at NINA/NTNU, working with willow ptarmigan and how it responds to climatic variation. I have been connected to the willow ptarmigan projects in Central Norway for about a decade. The PhD will be completed in March 2024, and I will then continue to work at NINA with grouse research and monitoring, as well as other topics in ecology.
+I joined Nord University in Spring 2024. I study the diet and fitness of ptarmigans under climate change. By using DNA barcoding, I will analyze fecal samples to understand how their food composition and selection varies with the timing of spring. My broad interests are in avian ecology, climate change and human impacts. Prior to joining here, I was mainly involved in research related to terrestrial ecotoxicology but also worked on seabird monitoring projects at NINA. I share my home between Japan and Nepal, and enjoy my free time climbing and biking.
 
-**Link to publications:** [Orcid](https://orcid.org/0000-0002-9893-7963)
+**Link to publications:** [Orcid](https://orcid.org/0009-0003-6968-7875)
 :::
 :::
 
